@@ -1,8 +1,4 @@
-import useApi from "./useApi/useApi";
-
 function App() {
-  const { getStarships, starshipClass } = useApi();
-
   return (
     <div id="background-container">
       <header id="header-title">Star Wars Test</header>
