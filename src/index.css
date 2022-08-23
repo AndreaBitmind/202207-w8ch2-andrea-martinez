@@ -3,7 +3,7 @@
   padding: 0px;
 }
 #background-container {
-  background-image: url("../images/background.jpg");
+  background-image: url("../public/images/background.jpg");
   width: 100vw;
   height: 100vh;
   display: flex;
